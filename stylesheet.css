@@ -8,9 +8,14 @@ nav {
  font-size: larger;
 }
 
-.main-content {
- padding: 1rem;
+.navbar-brand{
+    font-size: x-large;
 }
+
+
+/*.main-content {
+ padding: 1rem;
+}*/
 
 
 /* Link formatting */
@@ -24,3 +29,14 @@ a:hover, a:active {
     color: rgb(87, 8, 8);
     font-weight: bold;
 }
+
+
+/* For viewing bootstrap grid */
+/*div[class="row"] {
+    outline: 1px dotted black;
+}
+
+div[class^="col-"] {
+    background-color: lightpink;
+    outline: 1px dotted black;
+}*/
