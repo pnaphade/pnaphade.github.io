@@ -1,5 +1,6 @@
 body {
  font-family: 'Didot', serif;
+ font-size: large;
  --backgroundPink: rgb(253, 223, 223);
  --accentPink: rgb(252, 181, 181);
  --accentRed: rgb(87, 8, 8);
@@ -41,6 +42,5 @@ a:hover, a:active {
 }
 
 div[class^="col-"] {
-    background-color: lightpink;
     outline: 1px dotted black;
 }*/
